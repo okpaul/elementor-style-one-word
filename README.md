@@ -1,6 +1,6 @@
 Here is the code I used in the text editor:
 
-"<span class="huge">Heading</span>"
+```<span class="huge">Heading</span>
 
 
 Here is the code I used in the custom CSS section:
@@ -9,3 +9,5 @@ Here is the code I used in the custom CSS section:
     font-size:50px;
     font-family:courier;
       }
+
+```
